@@ -1,2 +1,3 @@
-# motivational-comments
-Simple GitHub custom action to send motivational gifs on merges to mainline.
+# Motivational Comments
+
+Custom GitHub action to trigger a merge comment when mergin branches to the mainline.
