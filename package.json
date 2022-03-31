@@ -1,7 +1,7 @@
 {
   "name": "motivational-comments",
   "version": "1.0.0",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "repository": "git@github.com:robertojnior/motivational-comments.git",
   "author": "Roberto Júnior <robertojunior085@gmail.com>",
   "license": "MIT",
