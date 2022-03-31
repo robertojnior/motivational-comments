@@ -1,0 +1,7 @@
+name: Motivational Comments
+author: Roberto Júnior
+description: Motivational comments for your merges.
+
+runs:
+  using: node16
+  main: dist/src/index.js
